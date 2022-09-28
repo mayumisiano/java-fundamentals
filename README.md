@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#objetivo">Objetivos</a> •
  <a href="#conceitos">Principais Conceitos</a> •
- <a href="#fundamentos">Fundamentos</a> • 
+ <a href="#fundamentos">Fundamentos</a> 
 </p>
 
 <h4 align="center"> 
