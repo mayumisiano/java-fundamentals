@@ -37,15 +37,16 @@
 2. **Processamento:** são os procedimentos feitos em cima dos dados para chegar a um resultado;
 3. **Saída:** são os dados processados;
 
+<a name="fundamentos"><h2>Fundamentos da Programação e Introdução ao Código</h2></a>
 
 <h3>Pseudocódigo</h3>
 O pseudocódigo é uma maneira intermediária entre a linguagem natural e uma linguagem de programação de representar um algoritmo. Ela utiliza um conjunto restrito de palavras-chave, em geral na língua nativa do programador.
 
 <h4>Principais Instruções do PseudoCódigo</h4>	
 
-* ESCREVA(); - Responsável por escrever uma mensagem na tela.* 
-* LEIA(); - Responsável por ler um valor do teclado e armazenar numa variável, ou seja, num espaço em memória.
-* VARIÁVEIS – Responsável por definir todos as variáveis que serão necessárias no programa.
+* **ESCREVA();** - Responsável por escrever uma mensagem na tela.* 
+* **LEIA();** - Responsável por ler um valor do teclado e armazenar numa variável, ou seja, num espaço em memória.
+* **VARIÁVEIS** – Responsável por definir todos as variáveis que serão necessárias no programa.
 
 
 
