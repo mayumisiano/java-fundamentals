@@ -33,9 +33,9 @@
 
 ![image](https://user-images.githubusercontent.com/62121416/192827521-a0863033-d25b-4664-b53d-13d95bbc792f.png)
 
-1. Entrada: são os dados que entram no programa;
-2. Processamento: são os procedimentos feitos em cima dos dados para chegar a um resultado;
-3. Saída: são os dados processados;
+1. **Entrada:** são os dados que entram no programa;
+2. **Processamento:** são os procedimentos feitos em cima dos dados para chegar a um resultado;
+3. **Saída:** são os dados processados;
 
 
 <h3>Pseudocódigo</h3>
