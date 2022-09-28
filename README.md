@@ -6,7 +6,6 @@
  <a href="#objetivo">Objetivos</a> •
  <a href="#conceitos">Principais Conceitos</a> •
  <a href="#fundamentos">Fundamentos</a> • 
- <a href="#condicionais">Laços Condicionais</a> • 
 </p>
 
 <h4 align="center"> 
@@ -37,3 +36,8 @@
 	2. Processamento: são os procedimentos feitos em cima dos dados para chegar a um resultado;
 	3. Saída: são os dados processados;
 </p>
+
+<h3>Pseudocódigo</h3>
+O pseudocódigo é uma maneira intermediária entre a linguagem natural e uma linguagem de programação de representar um algoritmo. Ela utiliza um conjunto restrito de palavras-chave, em geral na língua nativa do programador.
+
+
