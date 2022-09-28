@@ -8,10 +8,6 @@
  <a href="#fundamentos">Fundamentos</a> 
 </p>
 
-<h4 align="center"> 
-	🚧  Reforço Java em construção...  🚧
-</h4>
-
 <a name="objetivo"><h2>Objetivos do Reforço</h2></a>
 <p>Aprofundar os conhecimentos vistos em sala, revendo conceitos através da prática de exercícios.</p>
 
