@@ -31,7 +31,7 @@
 
 <h3>Princípios para criar Algoritmos</h3>
 <p>Para montar um algoritmo, precisamos primeiro dividir o problema apresentado em três fases fundamentais:
-	![image](https://user-images.githubusercontent.com/62121416/192821796-fa267966-3c12-43c8-a96d-8baa357b0ab8.png)
+	* ![Imagem de Criação de Algoritmos](https://user-images.githubusercontent.com/62121416/192821796-fa267966-3c12-43c8-a96d-8baa357b0ab8.png)
 	1. Entrada: são os dados que entram no programa;
 	2. Processamento: são os procedimentos feitos em cima dos dados para chegar a um resultado;
 	3. Saída: são os dados processados;
