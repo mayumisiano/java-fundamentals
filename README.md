@@ -41,9 +41,12 @@
 O pseudocódigo é uma maneira intermediária entre a linguagem natural e uma linguagem de programação de representar um algoritmo. Ela utiliza um conjunto restrito de palavras-chave, em geral na língua nativa do programador.
 
 <h4>Principais Instruções do PseudoCódigo</h4>	
+
+*
 * ESCREVA(); - Responsável por escrever uma mensagem na tela.* 
 * LEIA(); - Responsável por ler um valor do teclado e armazenar numa variável, ou seja, num espaço em memória.
 * VARIÁVEIS – Responsável por definir todos as variáveis que serão necessárias no programa.
+* 
 
 
 
