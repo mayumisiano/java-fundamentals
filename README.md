@@ -17,10 +17,14 @@
 <p>Aprofundar os conhecimentos vistos em sala, revendo conceitos através da prática de exercícios.</p>
 
 <a name="conceitos"><h2>Principais Conceitos da Programação</h2></a>
-
-<h3 align="center">O que é Lógica de Programação? </h3>
+<h3>O que é Lógica de Programação? </h3>
 <p> Lógica de programação é a técnica de encadear pensamentos para atingir determinado objetivo. A lógica de programação é necessária para pessoas que desejam trabalhar com desenvolvimento de sistemas, ela permite definir a sequência lógica de operação do programa. </p>
 
-<img src= "https://img.shields.io/github/issues/mayumisiano/imersaojava">
+<h3>O que são Algoritmos?</h3>
+<p>São uma sequência de passos que visam atingir um objetivo pré-definido e bem definido. Cada linha de um algoritmo é uma instrução. Instruções são um conjunto de regras ou normas definidas para a realização ou emprego de algo. Em informática, é o que indica a um computador uma ação elementar a executar. Um programa é, resumidamente, que um conjunto de instruções que executadas cumprem uma finalidade. </p>
 
-
+<h3>Por que criamos algoritmos?</h3>
+<p> - Linguagem natural não pode ser interpretada por um computador;
+    - A linguagem algorítmica é similar a uma linguagem de programação e próxima à linguagem natural;
+    - Logo, aprendendo a criar algoritmos, teremos facilidade em aprender uma linguagem de programação.
+</p>
