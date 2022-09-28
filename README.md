@@ -24,9 +24,10 @@
 <p>São uma sequência de passos que visam atingir um objetivo pré-definido e bem definido. Cada linha de um algoritmo é uma instrução. Instruções são um conjunto de regras ou normas definidas para a realização ou emprego de algo. Em informática, é o que indica a um computador uma ação elementar a executar. Um programa é, resumidamente, que um conjunto de instruções que executadas cumprem uma finalidade. </p>
 
 <h3>Por que criamos algoritmos?</h3>
-<p> * Linguagem natural não pode ser interpretada por um computador;
-    * A linguagem algorítmica é similar a uma linguagem de programação e próxima à linguagem natural;
-    * Logo, aprendendo a criar algoritmos, teremos facilidade em aprender uma linguagem de programação.
+<p> 
+	* Linguagem natural não pode ser interpretada por um computador;
+    	* A linguagem algorítmica é similar a uma linguagem de programação e próxima à linguagem natural;
+    	* Logo, aprendendo a criar algoritmos, teremos facilidade em aprender uma linguagem de programação.
 </p>
 
 <h3>Princípios para criar Algoritmos</h3>
