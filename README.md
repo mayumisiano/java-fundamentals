@@ -47,6 +47,9 @@ O pseudocódigo é uma maneira intermediária entre a linguagem natural e uma li
 * **ESCREVA( );** - Responsável por escrever uma mensagem na tela.* 
 * **LEIA( );** - Responsável por ler um valor do teclado e armazenar numa variável, ou seja, num espaço em memória.
 * **VARIÁVEIS** – Responsável por definir todos as variáveis que serão necessárias no programa.
+* **Início e Fim** – Delimitam o corpo do programa.
+
+
 
 
 
