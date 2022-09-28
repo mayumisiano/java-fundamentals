@@ -3,7 +3,7 @@
 <p align="center">Aqui serão colocados os principais tópicos e temas que discutimos durante as sessões de reforços e estudos. Também adicionarei links e materiais extras que possam ser úteis.📓🚀</p>
 
 <p align="center">
- <a href="#objetivo">Principais Conceitos</a>
+ <a href="#objetivo">Objetivos</a>
  <a href="#conceitos">Principais Conceitos</a> •
  <a href="#fundamentos">Fundamentos</a> • 
  <a href="#condicionais">Laços Condicionais</a> • 
