@@ -1,0 +1,41 @@
+package lacosCondicionais;
+
+import java.util.Scanner;
+
+public class exercicio2 {
+
+	public static void main(String[] args) {
+		
+		/*O tipo de variável char aceita somente um único caractere
+		dentro de aspas simples ' '. É útil para situações em que 
+		queremos determinar uma informação somente com uma letra,
+		como é o caso de sexo nesse registro.*/
+		
+		String nome,estadoCivil;
+		char sexo;
+		int tempoCasada;
+		
+		Scanner ler = new Scanner(System.in);
+		
+		System.out.println("\nInsira o nome: ");
+		nome = ler.nextLine();		
+		
+		System.out.println("\nInsira o estado civil: ");
+		estadoCivil = ler.nextLine();
+		
+		System.out.println("\nInsira o sexo: ");
+		sexo = ler.next().charAt(0);
+		
+		
+		/*Repare que, no IF abaixo, utilizaremos dois ==
+		para fazer uma comparação de valores e verificar se as
+		duas condições são verdadeiras. Não se esqueça de que
+		o tipo char aceita valores que vêm entre ' ' aspas simples.*/
+		
+		if( (sexo == 'F') && (estadoCivil == "Casada") ) {
+			System.out.println("Insira o seu tempo de casada(o): ");
+			tempoCasada = ler.nextInt();			
+		}
+	}
+
+}
