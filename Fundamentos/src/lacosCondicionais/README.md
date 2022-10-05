@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/62121416/193959797-53facac6-dc59-4f65-ab2a-fdb784b46490.png)
 
 <h3>Sintaxe Básica</h3>
-<p>A sintaxe, ou seja a forma que a lógica é escrita em Java para estruturar esses comandos é, resumidamente em pseudocódigo, essa a seguir:</p>
+<p>A sintaxe, ou seja a forma que a lógica é escrita em Java para estruturar esses comandos é, resumidamente em **pseudocódigo**, essa a seguir:</p>
 
    ```
    if (teste_lógico) {
