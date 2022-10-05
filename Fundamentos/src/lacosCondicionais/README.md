@@ -34,5 +34,19 @@ else {
    
    ![image](https://user-images.githubusercontent.com/62121416/193960542-c2447591-cdf5-4372-af10-93bbe94f6c20.png)
 
+   <p>Ainda no pseudocódigo, podemos observar que a estrutura se comportaria dessa forma: </p>
+   ```
+   if (teste_lógico) {
+   Bloco de comandos a executar se o teste_lógico retornar verdadeiro
+   }
+   else {      
+      if(teste_lógico){
+      Bloco de comandos a executar se o teste_lógico retornar verdadeiro
+      }
+      else{
+      Bloco de comandos a executar se o teste_lógico retornar falso
+      }      
+   }
+   ```
    
-   
+   <p> Repare que, se no primeiro laço, tivermos um retorno falso, o primeiro Else abrirá um novo laço condicional, colocamos um if/else dentro de um else para conseguirmos testar mais condições sucessivamente</p>
