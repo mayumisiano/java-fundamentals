@@ -1,5 +1,10 @@
 <h2>Materiais Extras para Laços Condicionais</h2>
 
+<h3>Fluxo Condicional</h3>
+<p>O diagrama de fluxo, ou fluxograma, antes de mais nada, pode nos auxiliar a ter um visual mais intuitivo de como o if/else funciona. Temos a entrada de dados e, a seguir, a tomada de decisões com essas informações a partir da abertura do laço condicional. Se a condição for verdadeira, teremos uma saída, se for falsa, teremos uma outra saída, como ilustra a figura abaixo: </p>
+
+![image](https://user-images.githubusercontent.com/62121416/193959715-df464831-ebe5-422b-8e29-a7ffe1cb427a.png)
+
 <h3>Sintaxe Básica</h3>
 <p>A sintaxe, ou seja a forma que a lógica é escrita em Java para estruturar esses comandos é, resumidamente em pseudocódigo, essa a seguir:</p>
 
