@@ -28,3 +28,9 @@ else {
    
    <h3>Encadeamento de If/else</h3>
    <p>Utilizamos condicionais aninhados, ou encadeamento de laços condicionais quando precisamos testar mais que duas condições ao          longo do laço sucessivamente. Ao invés de utilizarmos somente um if/else, podemos construir dentro dessa própria lógica, mais laços condicionais para determinar quais testes queremos realizar, utilizando uma ordem coerente de acordo com o que você quer construir no seu programa.</p>
+   
+   <h2>Visualização no Fluxograma</h2>
+   <p>Antes de entrar no pseudocódigo propriamente dito, vale a pena olhar a representação gráfica desse caso no fluxograma: </p>
+   
+   ![image](https://user-images.githubusercontent.com/62121416/193960542-c2447591-cdf5-4372-af10-93bbe94f6c20.png)
+
