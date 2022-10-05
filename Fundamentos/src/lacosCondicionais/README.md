@@ -17,7 +17,7 @@ else {
 }
    ```
 <p>
-   O bloco else pode ser omitido nos casos em que somente interessa executar alguma ação quando o teste_lógico retornar verdadeiro, não importando o que ocorra se o teste retornar falso. Com isso, temos a estrutura do if simples, que foi discutido nas aulas de reforço: </p>
+  A estrutura acima está completa conforme o que conhecemos.No entanto, caso queiramos, o bloco do Else pode ser omitido nos casos em que somente nos interessa executar alguma ação quando o teste_lógico retornar verdadeiro, não importando o que ocorra se o teste retornar falso. Com isso, temos a estrutura do if simples, que foi discutido nas aulas de reforço, logo abaixo: </p>
    
    ```
    if (teste_lógico) {
@@ -26,3 +26,5 @@ else {
    ```   
    <p>Pois nesse caso, o que nos interessa é somente o retorno da condição verdadeira, então, não há necessidade de incluir o Else.</p>
    
+   <h3>Encadeamento de If/else</h3>
+   <p>Utilizamos condicionais aninhados, ou encadeamento de laços condicionais quando precisamos testar mais que duas condições ao          longo do laço sucessivamente. Ao invés de utilizarmos somente um if/else, podemos construir dentro dessa própria lógica, mais laços condicionais para determinar quais testes queremos realizar, utilizando uma ordem coerente de acordo com o que você quer construir no seu programa.</p>
