@@ -27,7 +27,7 @@ else {
 <p>
   A estrutura acima está completa conforme o que conhecemos.No entanto, caso queiramos, o bloco do Else pode ser omitido nos casos em que somente nos interessa executar alguma ação quando o teste_lógico retornar verdadeiro, não importando o que ocorra se o teste retornar falso. Com isso, temos a estrutura do if simples, que foi discutido nas aulas de reforço, logo abaixo: </p>
    
-   ```
+   ```java
    if (teste_lógico) {
    Bloco de comandos a executar se o teste_lógico retornar verdadeiro
 }
@@ -44,7 +44,7 @@ else {
 
    <p>Ainda no pseudocódigo, podemos observar que a estrutura se comportaria dessa forma: </p>
    
-   ```
+   ```java
    if (teste_lógico) {
    Bloco de comandos a executar se o teste_lógico retornar verdadeiro
    }
@@ -63,7 +63,7 @@ else {
    <h3>Else if( )</h3>
    <p>Se quisermos testar, por exemplo, 4 condições com intervalos bem definidos, poderemos então utilizar a estrutura else if, que mescla os dois comandos e nos permite inserir mais testes lógicos entre um encadeamento if/else. No pseudocódigo seria:</p>
    
-   ```   
+   ```java
    if (teste_lógico) {
    Bloco de comandos a executar se o teste_lógico retornar verdadeiro
    }
