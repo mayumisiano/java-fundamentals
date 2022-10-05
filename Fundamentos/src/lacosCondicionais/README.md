@@ -49,11 +49,11 @@ else {
    Bloco de comandos a executar se o teste_lógico retornar verdadeiro
    }
    else {      
-      if(teste_lógico){
-      Bloco de comandos a executar se o teste_lógico retornar verdadeiro
+      if(teste_lógico2){
+      Bloco de comandos a executar se o teste_lógico2 retornar verdadeiro
       }
       else{
-      Bloco de comandos a executar se o teste_lógico retornar falso
+      Bloco de comandos a executar se o teste_lógico2 retornar falso
       }      
    }
    ```
