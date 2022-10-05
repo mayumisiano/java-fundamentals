@@ -76,6 +76,7 @@ else {
    
    <h3>Links úteis</h3>
    <p>Os links a seguir servem para complementar o estudo do assunto, mostrando explicações e exemplos de código que podem ser criados utilizando esses condicionais, além de outros exemplos.</p>
+   
    - [Condicionais If Else](https://www.computersciencemaster.com.br/estruturas-condicionais-if-else-lacos-de-repeticao-while-for-em-java/)
    - [Switch Case](https://blog.betrybe.com/java/switch-case-java/)
    
