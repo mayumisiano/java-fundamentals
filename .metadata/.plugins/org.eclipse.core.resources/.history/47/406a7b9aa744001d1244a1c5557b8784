@@ -1,0 +1,38 @@
+package lacosCondicionais;
+
+import java.util.Scanner;
+
+public class atividade12 {
+
+	public static void main(String[] args) {
+		float nota1,nota2,nota3,ME,MA;
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("Insira a primeira nota: ");
+		nota1= leia.nextFloat();
+		System.out.println("Insira a segunda nota: ");
+		nota2= leia.nextFloat();
+		System.out.println("Insira a terceira nota: ");
+		nota3= leia.nextFloat();
+		
+		System.out.println("Insira a média dos exercícios (ME): ");
+		ME= leia.nextFloat();
+		
+		MA = (nota1 + nota2*2 + nota3*3 + ME)/7;
+		
+		if(MA>=90) {
+			System.out.println("A média final foi: "+MA+"com conceito A");
+		}else if(MA>=75 && MA<90) {
+			System.out.println("A média final foi: \"+MA+\"com conceito B");
+		}else if(MA>=60 && MA<75) {
+			System.out.println("A média final foi: "+MA+"com conceito C");
+		}else if(MA>=40 && MA<60) {
+			System.out.println("A média final foi: "+MA+"com conceito D");
+		}else {
+			System.out.println("A média final foi: "+MA+"com conceito E");
+		}
+		
+	}
+
+}
