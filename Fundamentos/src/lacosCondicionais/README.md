@@ -1,7 +1,8 @@
 <h2>Materiais Extras para Laços Condicionais</h2>
 
 <h3>Links Complementares </h3>
-<a href="#links">• Material extra de If/else e Switch Case</a>
+- [Condicionais If Else](https://www.computersciencemaster.com.br/estruturas-condicionais-if-else-lacos-de-repeticao-while-for-em-java/) 
+- [Switch Case](https://blog.betrybe.com/java/switch-case-java/)
 
 <h3>Objetivos</h3>
 <p>Esse material foi desenvolvido com o intuito de auxiliar no entendimento da semântica de Java, isto é, como utilizamos a lógica de programação nessa linguagem para desenvolver programas. Foi escrito e apresentado em pseudocódigo para facilitar o entendimento do processo de criação de Algoritmos.</p>
@@ -77,9 +78,6 @@ else {
    ```   
    <p>Repare que, nesta estrutura, temos a possibilidade de determinar os testes_lógicos sequenciais que queremos verificar se são verdadeiros ou não.</p>
    
-   <a name=links><h3>Links úteis</h3></a>
-   <p>Os links a seguir servem para complementar o estudo do assunto, mostrando explicações e exemplos de código que podem ser criados utilizando esses condicionais, além de outros exemplos.</p>
+    
    
-   - [Condicionais If Else](https://www.computersciencemaster.com.br/estruturas-condicionais-if-else-lacos-de-repeticao-while-for-em-java/)
-   - [Switch Case](https://blog.betrybe.com/java/switch-case-java/)
    
