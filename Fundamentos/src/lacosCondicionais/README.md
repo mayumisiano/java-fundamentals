@@ -67,11 +67,11 @@ else {
    if (teste_lógico) {
    Bloco de comandos a executar se o teste_lógico retornar verdadeiro
    }
-   else if(teste_lógico) {
-   Bloco de comandos a executar se o teste_lógico retornar verdadeiro
+   else if(teste_lógico2) {
+   Bloco de comandos a executar se o teste_lógico2 retornar verdadeiro
    } 
-   else if(teste_lógico) {
-   Bloco de comandos a executar se o teste_lógico retornar verdadeiro
+   else if(teste_lógico3) {
+   Bloco de comandos a executar se o teste_lógico3 retornar verdadeiro
    }
    else{
    Bloco de comandos a executar se TODOS os testes lógicos retornarem falso
