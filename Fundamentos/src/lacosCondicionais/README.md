@@ -1,5 +1,8 @@
 <h2>Materiais Extras para Laços Condicionais</h2>
 
+<h3>Objetivos</h3>
+<p>Esse material foi desenvolvido com o intuito de auxiliar no entendimento da semântica de Java, isto é, como utilizamos a lógica de programação nessa linguagem para desenvolver programas. Foi escrito e apresentado em pseudocódigo para facilitar o entendimento do processo de criação de Algoritmos.</p>
+
 <h3>Fluxo Condicional</h3>
 <p>O diagrama de fluxo, ou fluxograma, antes de mais nada, pode nos auxiliar a ter um visual mais intuitivo de como o if/else funciona. Temos a entrada de dados e, a seguir, a tomada de decisões com essas informações a partir da abertura do laço condicional. Se a condição for verdadeira, teremos uma saída, se for falsa, teremos uma outra saída, como ilustra a figura abaixo: </p>
 
@@ -70,3 +73,5 @@ else {
    }
    ```   
    <p>Repare que, nesta estrutura, temos a possibilidade de determinar os testes_lógicos sequenciais que queremos verificar se são verdadeiros ou não.</p>
+   
+   
