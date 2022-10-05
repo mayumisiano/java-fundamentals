@@ -55,7 +55,7 @@ else {
    
    <p> Repare que, se no primeiro laço, tivermos um retorno falso, o primeiro Else abrirá um novo laço condicional, colocamos um if/else dentro de um else para conseguirmos testar mais condições sucessivamente</p>   
    
-   <h3>Else if()</h3>
+   <h3>Else if( )</h3>
    <p>Se quisermos testar, por exemplo, 4 condições com intervalos bem definidos, poderemos então utilizar a estrutura else if, que mescla os dois comandos e nos permite inserir mais testes lógicos entre um encadeamento if/else. No pseudocódigo seria:</p>
    
    ```   
@@ -74,4 +74,8 @@ else {
    ```   
    <p>Repare que, nesta estrutura, temos a possibilidade de determinar os testes_lógicos sequenciais que queremos verificar se são verdadeiros ou não.</p>
    
+   <h3>Links úteis</h3>
+   <p>Os links a seguir servem para complementar o estudo do assunto, mostrando explicações e exemplos de código que podem ser criados utilizando esses condicionais, além de outros exemplos.</p>
+   - [Condicionais If Else](https://www.computersciencemaster.com.br/estruturas-condicionais-if-else-lacos-de-repeticao-while-for-em-java/)
+   - [Switch Case](https://blog.betrybe.com/java/switch-case-java/)
    
