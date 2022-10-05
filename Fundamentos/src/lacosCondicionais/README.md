@@ -1,6 +1,6 @@
 <h2>Materiais Extras para Laços Condicionais</h2>
 
-<a href="#links">Links Complementares</a>
+<a href="#links"><h6>• Links Complementares</h6></a>
 
 <h3>Objetivos</h3>
 <p>Esse material foi desenvolvido com o intuito de auxiliar no entendimento da semântica de Java, isto é, como utilizamos a lógica de programação nessa linguagem para desenvolver programas. Foi escrito e apresentado em pseudocódigo para facilitar o entendimento do processo de criação de Algoritmos.</p>
