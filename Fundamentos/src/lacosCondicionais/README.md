@@ -1,5 +1,9 @@
 <h2>Materiais Extras para Laços Condicionais</h2>
 
+<h3>Listas de exercícios</h3>
+
+- [Laços Condicionais - Lista 1](https://docs.google.com/document/d/1H2I_zk_i-mfIxX56geCs56pxi8X4c8QkYsW2YbxcgUs/edit?usp=sharing)
+
 <h3>Links Complementares </h3>
 
 - [Condicionais If Else](https://www.computersciencemaster.com.br/estruturas-condicionais-if-else-lacos-de-repeticao-while-for-em-java/) 
