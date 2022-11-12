@@ -1,0 +1,43 @@
+package fundamentosLogica;
+
+import java.util.Scanner;
+
+public class DadosDezPessoas {
+
+	public static void main(String[] args) {
+		float altura, maiorAltura=0, menorAltura=0, mediaAltura, somaAltura = 0,
+			  numeroMulheres=0,numeroHomens=0;
+		char genero;		
+		
+		Scanner sc = new Scanner(System.in);				
+		
+		for( int x=0; x<=3; x++) {
+			
+			System.out.println("Insira seu gênero (M/F): ");
+			genero = sc.next().charAt(0);
+			System.out.println("Insira sua altura: ");
+			altura = sc.nextFloat();
+			
+			if(altura > maiorAltura) {
+				maiorAltura = altura;
+			}
+			
+			if(menorAltura > altura) {
+				menorAltura = altura;
+			}
+			
+			if(genero == 'M') {
+				somaAltura += altura;
+				numeroHomens++;
+			}
+			
+			mediaAltura = somaAltura/numeroHomens;
+				
+			if(genero == 'F') {
+				numeroMulheres++;
+			}			
+		}
+		System.out.println(menorAltura);
+	}
+
+}
