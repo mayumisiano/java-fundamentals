@@ -4,6 +4,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivos</a> •
+ <a href="listas">Listas de Exercícios</a> •
  <a href="#conceitos">Principais Conceitos</a> •
  <a href="#fundamentos">Fundamentos</a> 
 </p>
@@ -14,6 +15,8 @@
 - Compreender entrada, processamento e saídas de dados;
 - Principais comandos em pseudo-código;
 
+<a name="listas"><h2>Link para acessar as Listas de exercícios</h2></a>
+- [Fundamentos em Java- Lista 1](https://docs.google.com/document/d/11UmrvC9LkGw5hqvkk8DHrutQt54YCQgBdqQ8RgR9zX8/edit?usp=sharing)
 <a name="conceitos"><h2>Principais Conceitos da Programação</h2></a>
 <h3>O que é Lógica de Programação? </h3>
 <p> Lógica de programação é a técnica de encadear pensamentos para atingir determinado objetivo. A lógica de programação é necessária para pessoas que desejam trabalhar com desenvolvimento de sistemas, ela permite definir a sequência lógica de operação do programa. </p>
