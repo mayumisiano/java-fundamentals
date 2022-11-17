@@ -1,0 +1,22 @@
+package lacosRepeticao.Lista1;
+
+import java.util.Scanner;
+
+public class ExecString {
+
+	public static void main(String[] args) {
+		
+		String Nome;		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Digite seu nome completo: ");
+		Nome = sc.nextLine();
+		
+		String[] Abv = Nome.split(" ");		
+		
+		System.out.println(Abv);
+
+	}
+
+}

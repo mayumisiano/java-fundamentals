@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lacosRepeticao.Lista1.ExecString&apos; to &apos;AbrevString&apos;&#x0D;&#x0A;- Original project: &apos;Fundamentos&apos;&#x0D;&#x0A;- Original element: &apos;lacosRepeticao.Lista1.ExecString&apos;&#x0D;&#x0A;- Renamed element: &apos;lacosRepeticao.Lista1.AbrevString&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExecString&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lacosRepeticao.Lista1{ExecString.java[ExecString" matchStrategy="1" name="AbrevString" qualified="false" references="true" similarDeclarations="false" stamp="1668544943442" textual="false" version="1.0"/>
+</session>

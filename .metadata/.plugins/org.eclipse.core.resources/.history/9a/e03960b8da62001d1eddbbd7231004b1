@@ -1,0 +1,15 @@
+package lacosRepeticao.Lista1;
+
+public class ExecString {
+
+	public static void main(String[] args) {
+		
+		Object TextConsole="Olá";
+		
+		TextConsole.toString();
+		
+		System.out.println(TextConsole);
+
+	}
+
+}
